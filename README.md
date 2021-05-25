@@ -1,1 +1,2 @@
-# p-38-infiite-runner
+# Infinite-Runner
+Project 38
